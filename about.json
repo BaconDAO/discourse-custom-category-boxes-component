@@ -9,10 +9,10 @@
     "crosshatch-1": "/assets/crosshatch/1.png",
     "crosshatch-2": "/assets/crosshatch/2.png",
     "crosshatch-3": "/assets/crosshatch/3.png",
-    "custom-0": "/assets/custom/0.jpeg",
-    "custom-1": "/assets/custom/1.jpeg",
-    "custom-2": "/assets/custom/2.jpeg",
-    "custom-3": "/assets/custom/3.jpeg"
+    "custom-0": "/assets/custom/0.png",
+    "custom-1": "/assets/custom/1.png",
+    "custom-2": "/assets/custom/2.png",
+    "custom-3": "/assets/custom/3.png"
   },
   "about_url": "https://github.com/discourse/discourse-custom-category-boxes-component",
   "liscense_url": "https://github.com/discourse/discourse-custom-category-boxes-component/blob/main/LICENSE.md",
